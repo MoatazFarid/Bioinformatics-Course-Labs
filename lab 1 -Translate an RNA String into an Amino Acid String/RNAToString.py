@@ -1,5 +1,7 @@
 
 """
+Question : http://rosalind.info/problems/ba4a/
+
 Algorithm Steps
  1- Covert the RNA Codon table to a list [[key1,val1],[key2,val2],..]
  2- convert every key to a value and save it to a string
