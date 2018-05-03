@@ -85,6 +85,6 @@ def Test_getValue():
     m = "M"
     print getValue(m)
 
-mainApp()
+# mainApp()
 # Test_getValue()
 # Test_calculateSm()
